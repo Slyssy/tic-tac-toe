@@ -1,0 +1,20 @@
+.jumbotron {
+  margin: 5% auto;
+  margin-left: 43%;
+}
+
+td {
+  height: 150px;
+  width: 150px;
+  text-align: center;
+  border: 5px solid black;
+  font-size: 100px;
+}
+
+table {
+  margin: auto auto;
+}
+
+.winner {
+  background-color: rgba(215, 181, 96, 0.691);
+}
